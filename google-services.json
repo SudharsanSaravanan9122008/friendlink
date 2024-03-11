@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906719019997",
+    "project_id": "friendlink-30c17",
+    "storage_bucket": "friendlink-30c17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906719019997:android:b711adeafd1380aac9ac34",
+        "android_client_info": {
+          "package_name": "com.sacg.friendlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906719019997-2vh9sblgc46m9nso798bmse2ch7g3quv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacg.friendlink",
+            "certificate_hash": "91d27f3963f3479425ecf687f665d5b0a38d2e93"
+          }
+        },
+        {
+          "client_id": "906719019997-7d89prr8s47caqt51qt4kjgkmkd27snm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacg.friendlink",
+            "certificate_hash": "aaa2be76148ab7812dc6d56c942284e2f8375f82"
+          }
+        },
+        {
+          "client_id": "906719019997-7p44jsusf7lq3v86cvugbe18l5835dbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluDinpFrLZI7zmTg8BWrrl5iO40UDeng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906719019997-7p44jsusf7lq3v86cvugbe18l5835dbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
